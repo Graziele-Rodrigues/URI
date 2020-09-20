@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main (){
+int main () {
 	vector<int> v, par, impar;
 	int N, a;
 	cin>>N;

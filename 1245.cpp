@@ -3,8 +3,7 @@
 #include <string.h>
 #include <math.h>
 
-int main()
-{
+int main(){
 	int i, j, n, contpar, x, y;
 	char pe[10002];
 	int tam_pe[10002];

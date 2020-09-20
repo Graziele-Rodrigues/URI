@@ -7,17 +7,20 @@ int main( ){
   scanf("%d", &X);
   if(X == 0){
    printf("NULL\n");
-  }else if(X % 2 == 0){
+  }
+  else if(X % 2 == 0){
    if(X > 0){
     printf("EVEN POSITIVE\n");
-   }else{
+   }
+   else{
     printf("EVEN NEGATIVE\n");
    }
-
-  }else{
+  }
+  else{
    if(X > 0){
     printf("ODD POSITIVE\n");
-   }else{
+   }
+   else{
     printf("ODD NEGATIVE\n");
    }
   }

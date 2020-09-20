@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main (void){
+int main (void) {
 	int F, X, K;
         cin>> X;
 		for(int i=0; i<X; i++){

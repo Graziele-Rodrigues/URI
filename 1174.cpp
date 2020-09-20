@@ -3,6 +3,7 @@
 int main (){
 float A[100];
 int i;
+
 for(i=0; i<=99; i++){
 scanf("%f", &A[i]);
 }

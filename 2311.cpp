@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main()
-{
+int main() {
 	int n;
 	double gd, nota;
 	vector <double> v;

@@ -15,7 +15,6 @@ int main()
         }else{
             out++;
         }
-
     }
     printf("%d in\n", in);
     printf("%d out\n", out);

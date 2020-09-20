@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main()
-{
+int main() {
 	int N, M, v[99999], num, cont;
 	while(cin >> N >> M)
 	{

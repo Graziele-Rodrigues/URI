@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main (){
+int main () {
 	double M[12][12];
 	int i, j;
 	double soma = 0.0;

@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main()
-{
+int main(){
     int X, N, a, b=0;
     scanf("%d %d", &X, &N);
     while(N<=0)

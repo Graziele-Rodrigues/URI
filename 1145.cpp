@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(){
-
     int X, Y, i;
     scanf("%d %d", &X, &Y);
     for (i = 1; i <= Y; i++){

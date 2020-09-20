@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main(){
+int main() {
     int N, M;
     string linguagem, traducao, name;
     cin.tie(0);

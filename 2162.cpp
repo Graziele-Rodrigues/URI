@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main()
-{
+int main() {
     int N, i, pico = 1;
     cin>>N;
     int v[N];

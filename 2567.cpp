@@ -10,8 +10,7 @@ int gcd(int a, int b) { return (b == 0 ? a : gcd(b, a % b)); }
 int main(int argc, char** argv) {
 	//freopen("c.txt","w",stdout);
 	int n;
-	while(cin>>n)
-	{
+	while(cin>>n) {
 		vector<int> a(n);
 		for(int i=0;i<n;i++)
 		{

@@ -1,8 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
  
-int main()
-{
+int main() {
     int N, v ;
      map < int ,int > st;
      cin>>N;

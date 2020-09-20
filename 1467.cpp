@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main (void){
+int main (void) {
 	int A, B, C;
 
  while(cin >> A >> B >> C)  //enquanto tiver entradas para ler

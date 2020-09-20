@@ -11,11 +11,9 @@ int main()
                 coelhos += num;
             }
             else if(strcmp(animal,"R")== 0){
-                ratos += num;
-            }
+                ratos += num;}
             else if(strcmp(animal,"S")== 0){
-                sapos += num;
-            }
+                sapos += num; }
         }
         total = coelhos + ratos + sapos;
                printf("Total: %d cobaias\nTotal de coelhos: %d\nTotal de ratos: %d\nTotal de sapos: %d\n",total,coelhos,ratos,sapos);

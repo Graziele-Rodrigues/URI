@@ -8,7 +8,6 @@ using namespace std;
  * inferior direito (x2,y2) .: x1 <= x2 && y1 <= y2 */
 #define MAXN 1000
 
-
 int N, M;                        // linhas colunas
 long long Moto[MAXN + 2][MAXN + 2]; // matriz de valores
 long long Carro[MAXN + 2][MAXN + 2]; // matriz de valores
@@ -105,7 +104,7 @@ int main(int argc, char** argv){
     long long resp = -1;
     
     for (int i = 0; i <= N - L; i++)
-    {
+     {
         for (int j = 0; j <= M - L; j++)
         {
             int x1 = i, y1 = j;
@@ -123,6 +122,5 @@ int main(int argc, char** argv){
     }
     
     cout << resp << endl;
-    
     return 0;
 }

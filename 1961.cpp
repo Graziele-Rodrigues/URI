@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main (void){
+int main (void) {
 int N, P, D, cont=0;
 cin>> P;
 if(P <= 10){

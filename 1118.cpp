@@ -30,14 +30,13 @@ int main(){
                 else if(z == 0){
                       y = x;
                       z = 1;
-                }
+                      }
                 else{
                      printf("media = %.2f\n", (x+y)/2.00);
                      z = 0;
                      n = 1;
+                     }
                 }
-                }
-                
                 if(n == 1) cout << "novo calculo (1-sim 2-nao)\n";
                      
     }    

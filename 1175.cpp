@@ -4,6 +4,7 @@ int main (){
 int N[20];
 int x;
 int temp;
+
 for(x=0; x<20; x++){
 	scanf("%d", &N[x]);
 }

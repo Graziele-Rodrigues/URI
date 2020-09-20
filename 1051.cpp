@@ -20,4 +20,4 @@ int main()
         printf("R$ %.2f\n", x);
     }
     return 0;
-}
+    }

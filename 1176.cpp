@@ -7,7 +7,7 @@ int main (){
 	Fib[1]=1;
 	for(i=2; i<=60; i++){  //ja achou valor de 2 vetores por isso começa em 2
 	  Fib[i]= Fib[i-1]+Fib[i-2];	
-	}
+	  }
 	  scanf("%d", &T);  //ler numero de perguntas
 	  for(i=1; i<=T; i++){  //repetir o numero de perguntas lidos
 	  	scanf("%d", &N); 

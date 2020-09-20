@@ -14,7 +14,8 @@ int main(){
         }
         if(aux == valor){
             printf("%d eh perfeito\n", valor);
-        }else{
+        }
+        else {
             printf("%d nao eh perfeito\n", valor);
         }
         i++;

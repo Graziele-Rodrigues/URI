@@ -17,8 +17,7 @@ int main()
   array[x] += 1;
  }
 
- for (int i = 0; i < 2001; ++i)
- {
+ for (int i = 0; i < 2001; ++i){
   if(array[i] != 0){
    cout << i << " aparece " << array[i] << " vez(es)" << endl;
   }

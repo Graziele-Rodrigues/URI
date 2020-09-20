@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main (){
+int main () {
 	vector<int> v;
 	vector<int> v1;
      int N;

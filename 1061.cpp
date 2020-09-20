@@ -26,5 +26,5 @@ int main()
 
     h[2]=h[1]%60;
     printf("%d segundo(s)\n", h[2]);
-    return 0;
-}
+    return 0; 
+    }

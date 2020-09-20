@@ -7,9 +7,9 @@ int main (){
 	for(i=1; i<10; i++){
 		N[i]= N[i-1]*2; // faz se i-1 porque por exemplo vai 3 vai descontar 1 vira 2, vezes dois da 4 que é o dobtro do anterior que seria 2..
 	}
+
 	for(i=0; i<10;i++){
 		printf("N[%d] = %d\n", i, N[i]);
 	}
-	system("pause");
-	
+	system("pause");	
 }
